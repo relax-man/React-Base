@@ -6,3 +6,8 @@
     ```
     npm install
     ```
+
+- Configure project name in package.json
+    ```
+    "name": "____"
+    ```
